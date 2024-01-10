@@ -3,4 +3,4 @@
 ## Contents
 
 * PADI
-  * Dry Suit Diving
+  * [Dry Suit Diver](/PADI/DrySuitDiver.md)
