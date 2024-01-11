@@ -103,4 +103,3 @@
     * composite suits
       * a mixture of suits together
       * a common one is crushed neoprene from the waist down and trilaminate from the waist up
-      * 
