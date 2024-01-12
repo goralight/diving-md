@@ -7,3 +7,5 @@
 6. [Diving Dry Suit](./6-DivingDrySuit.md)
 7. [Dry Suit Safety and Handling Emergencies](./7-DrySuitSafetyAndHandlingEmergencies.md)
 8. [Dry Suit Diving Guidelines](./8-DrySuitDivingGuidelines.md)
+9. [Dry Suit Care, Maintenance, Storage, And Packing](./9-DrySuitCareMaintenanceStorageAndPacking.md)
+10. [Dry Suit Repairs](./10-DrySuitRepairs.md)
