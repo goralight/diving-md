@@ -5,6 +5,8 @@
 
 Above is the PADI Dive table (Recreational Dive Table), it's needed to see how much residual nitrogen is in our blood when doing multiple dives.
 
+Also there is a [NAUI RPD](/NAUI/DiveTable(RPD).md) which is very similar
+
 ### Step by Step
 1. Pick your depth (first image, top numbers)
 2. Pick your duration (go down from the depth number to the time, round up)
