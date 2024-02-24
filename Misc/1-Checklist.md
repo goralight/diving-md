@@ -1,6 +1,7 @@
 # Checklist
 ## Drysuit
 ### Mandatory:
+- [ ] Logbook
 - [ ] Drysuit
 - [ ] Thermal leggings
 - [ ] Thermal Top
@@ -17,6 +18,7 @@
 - [ ] Regulator
 - [ ] Tank
 - [ ] Weights
+- [ ] Talcum powder
 
 ### Optional:
 - [ ] Knife
