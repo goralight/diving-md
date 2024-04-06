@@ -13,6 +13,7 @@
 - [ ] Boots
 - [ ] Fins
 - [ ] Diving Computer
+- [ ] Compass
 - [ ] Torch
 - [ ] BCD
 - [ ] Regulator
@@ -22,6 +23,7 @@
 
 ### Optional:
 - [ ] Knife
+- [ ] Backup torch batteries
 - [ ] Land Jacket
 - [ ] Water
 - [ ] Food
