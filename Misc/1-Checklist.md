@@ -20,6 +20,7 @@
 - [ ] Tank
 - [ ] Weights
 - [ ] Talcum powder
+- [ ] Silicone grease 
 
 ### Optional:
 - [ ] Knife
