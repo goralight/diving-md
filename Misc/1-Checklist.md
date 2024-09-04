@@ -2,7 +2,7 @@
 ## Drysuit
 ### Mandatory:
 - [ ] Logbook
-- [ ] Drysuit
+- [ ] Drysuit / Wetsuit
 - [ ] Thermal leggings
 - [ ] Thermal Top
 - [ ] Undergarments
@@ -23,6 +23,8 @@
 - [ ] Silicone grease 
 
 ### Optional:
+- [ ] Camera
+- [ ] Clip for camera
 - [ ] Knife
 - [ ] Backup torch batteries
 - [ ] Land Jacket
